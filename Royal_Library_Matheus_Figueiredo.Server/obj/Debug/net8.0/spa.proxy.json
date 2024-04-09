@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\..\\royal_library_matheus_figueiredo.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

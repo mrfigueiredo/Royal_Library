@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3lGrpvisotFods05rXP7vUTxVjtNFuxRXm8rdxsFyZ2k5kGkOO5k/peRlEBET4V6V4zJikab2OUB8grGFedZWA==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.3\\microsoft.aspnetcore.spaproxy.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
