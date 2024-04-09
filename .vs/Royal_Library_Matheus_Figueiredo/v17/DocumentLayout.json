@@ -1,12 +1,309 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\royal_library_matheus_figueiredo.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\royal_library_matheus_figueiredo.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\businesslogic\\blbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\businesslogic\\blbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\dataaccess\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\dataaccess\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\dataaccess\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\dataaccess\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\dataaccess\\utils\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\dataaccess\\utils\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\entities\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\entities\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|f:\\projetos\\royal_library_matheus_figueiredo\\royal_library\\royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5DCF99-9048-4FE2-ABBC-661978EEF474}|Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.csproj|solutionrelative:royal_library_matheus_figueiredo.server\\src\\dataaccess\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "VerticalTabListWidth": 199,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Royal_Library_Matheus_Figueiredo.Server.http",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.http",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.http",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.http",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\Royal_Library_Matheus_Figueiredo.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-09T03:32:24.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLBooks.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\BusinessLogic\\BLBooks.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\BusinessLogic\\BLBooks.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\BusinessLogic\\BLBooks.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\BusinessLogic\\BLBooks.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswCoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T03:29:20.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\appsettings.json",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\appsettings.json",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T02:51:50.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\appsettings.Development.json",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\appsettings.Development.json",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T02:51:28.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IBookRepository.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:36:46.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:15:36.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\GenericRepository.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:11:01.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:09:48.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Program.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Program.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:42:19.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\DataContext.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\DataContext.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\DataContext.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:38:48.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\Entities\\BookDTO.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\Entities\\BookDTO.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\Entities\\BookDTO.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\Entities\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:38:34.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Utils\\Mapper.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Utils\\Mapper.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Utils\\Mapper.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Utils\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:38:24.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\BookRepository.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\BookRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:38:16.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IGenericRepository.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Repository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:38:08.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Models\\Book.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Models\\Book.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\DataAccess\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:37:56.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Controllers\\BookController.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv5oAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:36:51.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Startup.cs",
+              "RelativeDocumentMoniker": "Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Startup.cs",
+              "ToolTip": "F:\\Projetos\\Royal_Library_Matheus_Figueiredo\\Royal_Library\\Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Startup.cs",
+              "RelativeToolTip": "Royal_Library_Matheus_Figueiredo.Server\\src\\API\\Startup.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:36:38.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
