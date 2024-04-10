@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Royal_Library_Matheus_Figueiredo.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc8b860fff25329bdb89afe285d54ff94b82037c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2403859f68a97c2481fd73082bdc79082aadf7a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Royal_Library_Matheus_Figueiredo.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Royal_Library_Matheus_Figueiredo.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

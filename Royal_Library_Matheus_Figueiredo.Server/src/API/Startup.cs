@@ -27,8 +27,6 @@ namespace Royal_Library
 
             services.AddControllers();
 
-            //services.AddEndpointsApiExplorer();
-
             var connectionString = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<DataContext>(options => options.UseSqlServer(connectionString));
 
@@ -46,6 +44,7 @@ namespace Royal_Library
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                
             }
 
             app.UseHttpsRedirection();

@@ -26,7 +26,7 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
 
                 try
                 {
-                    await _blBooks.AddBook(book);
+                    await _blBooks.AddBook(book, HttpContext.Request.Path);
                     return CreatedAtAction(nameof(GetBookById), new { id = book.Id }, book);
                 }
                 catch (Exception e)
@@ -42,7 +42,7 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetBookById(int id)
         {
-            var book = await _blBooks.GetBookById(id);
+            var book = await _blBooks.GetBookById(id, HttpContext.Request.Path);
             if (book == null)
             {
                 return NotFound(new { status = 404, msg = "Book not found", date = DateTime.UtcNow });
@@ -54,7 +54,7 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllBooks()
         {
-            var books = await _blBooks.GetAllBooks();
+            var books = await _blBooks.GetAllBooks(HttpContext.Request.Path);
             if (books == null)
             {
                 return NotFound(new { status = 404, msg = "No books not found", date = DateTime.UtcNow });
@@ -73,7 +73,7 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
 
             try
             {
-                await _blBooks.UpdateBook(book);
+                await _blBooks.UpdateBook(book, HttpContext.Request.Path);
                 return NoContent();
             }
             catch (Exception ex)
@@ -87,7 +87,7 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteBook(int id)
         {
-            var book = await _blBooks.GetBookById(id);
+            var book = await _blBooks.GetBookById(id, HttpContext.Request.Path);
             if (book == null)
             {
                 return NotFound();
@@ -95,7 +95,7 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
 
             try
             {
-                await _blBooks.DeleteBook(id);
+                await _blBooks.DeleteBook(id, HttpContext.Request.Path);
                 return NoContent();
             }
             catch (Exception ex)
@@ -108,7 +108,7 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
         [HttpGet("author/{author}")]
         public async Task<IActionResult> GetBookByAuthor(string author)
         {
-            var book = await _blBooks.GetByAuthor(author);
+            var book = await _blBooks.GetByAuthor(author, HttpContext.Request.Path);
             if (book == null)
             {
                 return NotFound(new { status = 404, msg = "Book not found", date = DateTime.UtcNow });
@@ -119,7 +119,7 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
         [HttpGet("category/{category}")]
         public async Task<IActionResult> GetBookByCategory(string category)
         {
-            var book = await _blBooks.GetByCategory(category);
+            var book = await _blBooks.GetByCategory(category, HttpContext.Request.Path);
             if (book == null)
             {
                 return NotFound(new { status = 404, msg = "Book not found", date = DateTime.UtcNow });
@@ -130,7 +130,7 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
         [HttpGet("isbn/{isbn}")]
         public async Task<IActionResult> GetBookByISBN(string isbn)
         {
-            var book = await _blBooks.GetByISBN(isbn);
+            var book = await _blBooks.GetByISBN(isbn, HttpContext.Request.Path);
             if (book == null)
             {
                 return NotFound(new { status = 404, msg = "Book not found", date = DateTime.UtcNow });
@@ -141,7 +141,7 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
         [HttpGet("title/{title}")]
         public async Task<IActionResult> GetBookByTitle(string title)
         {
-            var book = await _blBooks.GetByTitle(title);
+            var book = await _blBooks.GetByTitle(title, HttpContext.Request.Path);
             if (book == null)
             {
                 return NotFound(new { status = 404, msg = "Book not found", date = DateTime.UtcNow });
@@ -152,7 +152,8 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.API.Controllers
         [HttpGet("type/{type}")]
         public async Task<IActionResult> GetBookByType(string type)
         {
-            var book = await _blBooks.GetByType(type);
+            var book = await _blBooks.GetByType(type, HttpContext.Request.Path);
+            
             if (book == null)
             {
                 return NotFound(new { status = 404, msg = "Book not found", date = DateTime.UtcNow });

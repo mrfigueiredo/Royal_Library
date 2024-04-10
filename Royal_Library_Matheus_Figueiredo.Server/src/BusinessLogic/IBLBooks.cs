@@ -6,24 +6,24 @@ namespace Royal_Library_Matheus_Figueiredo.Server.src.BusinessLogic
 {
     public interface IBLBooks
     {
-        Task<IEnumerable<BookDTO>> GetAllBooks();
+        Task<IEnumerable<BookDTO>> GetAllBooks(string endpoint);
 
-        Task<bool> AddBook(BookDTO entity);
+        Task<bool> AddBook(BookDTO entity, string endpoint);
 
-        Task<bool> DeleteBook(int id);
+        Task<bool> DeleteBook(int id, string endpoint);
 
-        Task<bool> UpdateBook(BookDTO entity);
+        Task<bool> UpdateBook(BookDTO entity, string endpoint);
 
-        Task<IEnumerable<BookDTO>> GetByAuthor(string author);
+        Task<IEnumerable<BookDTO>> GetByAuthor(string author, string endpoint);
 
-        Task<IEnumerable<BookDTO>> GetByCategory(string Category);
+        Task<IEnumerable<BookDTO>> GetByCategory(string Category, string endpoint);
 
-        Task<BookDTO> GetBookById(int id);
+        Task<BookDTO> GetBookById(int id, string endpoint);
 
-        Task<BookDTO> GetByISBN(string ISBN);
+        Task<BookDTO> GetByISBN(string ISBN, string endpoint);
 
-        Task<BookDTO> GetByTitle(string title);
+        Task<BookDTO> GetByTitle(string title, string endpoint);
 
-        Task<IEnumerable<BookDTO>> GetByType(string type);
+        Task<IEnumerable<BookDTO>> GetByType(string type, string endpoint);
     }
 }
