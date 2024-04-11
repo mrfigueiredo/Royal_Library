@@ -1,6 +1,6 @@
 # Royal Library
 
-This project is a web application built using ASP.NET Core for the backend, React for the frontend, and MSSQL for the database. The entire application will be containerized using Docker for easy deployment and management soon.
+This project is a web application built using ASP.NET Core for the backend, React for the frontend and MSSQL for the database. The entire application will be containerized using Docker for easy deployment and management soon.
 
 ## Getting Started
 
